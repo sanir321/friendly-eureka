@@ -38,7 +38,7 @@ const KeyVerification = ({ onKeyVerified }) => {
   };
 
   const handleTelegramLink = () => {
-    window.open('https://t.me/your_telegram_link', '_blank'); // Replace with actual Telegram link
+    window.open('https://t.me/yourAIFX9I', '_blank'); // Replace with actual Telegram link
   };
 
   return (
